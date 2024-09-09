@@ -21,3 +21,4 @@ def main():
     print("Área del triángulo:", tri_area)
 
 main()
+
