@@ -12,7 +12,7 @@ while True:
     print("2. Calcular el área de un triángulo")
     print("3. Salir")
 
-    opcion = input("Elige una opción (1-4): ")
+    opcion = input("Elige una opción (1-3): ")
 
     if opcion == "1":
         x = float(input("Ingresa la base del rectángulo: "))
