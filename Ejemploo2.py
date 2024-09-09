@@ -7,6 +7,6 @@ if __name__ == "__main__":
     factor2 = float(input("Ingrese factor 2: "))
     factor3 = float(input("Ingrese factor 3: "))
 
-    Resultado = calcular(factor1, factor2, factor3)
+    resultado = calcular(factor1, factor2, factor3)
 
-    print(f"{factor1} * {factor2} + {factor3} = {Resultado}")
+    print(f"{factor1} * {factor2} + {factor3} = {resultado}")
