@@ -27,8 +27,8 @@ while True:
         print("Área del triángulo:", tri_area)
 
     elif opcion == "3":
-        print("Saliendo del programa...")
+        print("Saliendo...")
         break
 
     else:
-        print("Opción inválida, por favor elige una opción del 1 al 3.")
+        print("Opción inválida, elige una opción del 1 al 3.")
